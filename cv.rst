@@ -1,7 +1,7 @@
 Jussi Vaihia, born 31 May 1980, Finland
 
 | Address: Gyldenärinkatu 1 B 41, 02600, Espoo
-| GSM: +358 40 8250684
+| Mobile: +358 40 8250684
 | Email: jussiava@gmail.com
 | Twitter: http://twitter.com/mixman
 | Github: http://github.com/mixman
