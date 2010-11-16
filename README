@@ -1,1 +1,9 @@
 Curriculum Vitae of Jussi Vaihia
+
+Requirements
+===========
+ pip install sphinx
+
+Use
+===
+ make html
