@@ -8,7 +8,7 @@ Jussi Vaihia, born 31 May 1980, Finland
 
 Objective
 =========
-Master Web Development on Client and Server -side.
+Master Web (+Mobile) Development on Client and Server -side, and as a side-effect, become a great programmer.
 
 Education
 =========
@@ -36,15 +36,15 @@ Experience
 ==========
 Career-related
 ^^^^^^^^^^^^^^
-* Muxlim, employee & shareholder (2006-)
+* Muxlim, Employee & Shareholder (2006-)
     * Chief Web Developer using Python, Django and Agile methods for building world's largest Muslim Lifestyle Network.
-    ** Tags: Memcached, Redis, MySQL, Debian Linux, Amazon EC2 + S3, jQuery, Fabric, Supervisor, Google App Engine
+        * Tags: SEO, Memcached, Redis, MySQL, Debian Linux, Amazon EC2 + S3, jQuery, Fabric, Hudson, Supervisor, Google App Engine, Nginx
     * Certified Scrum Master (2008)
 
 * OiOi Interactive, Founder (2005-)
     * Oioi.fi: Creation of a social networking platform with features of popular services like Flickr, YouTube, del.icio.us, Blogger and Digg. (2006-2010)
     * Feedraider.com: Feed aggregator, reader, search (2007-)
-    * Heimoi.com: Hyperlocal communities (2010-)
+    * Heimoi.com: Hyperlocal communities using HTML5 techniques (2010-)
     * Salama: Open-source PHP 5.3+ ORM (2010)
 
 * EVTEK (2004-2005)

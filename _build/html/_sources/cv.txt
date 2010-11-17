@@ -1,14 +1,14 @@
 Jussi Vaihia, born 31 May 1980, Finland
 
 | Address: Gyldenärinkatu 1 B 41, 02600, Espoo
-| GSM: +358 40 8250684
+| Mobile: +358 40 8250684
 | Email: jussiava@gmail.com
 | Twitter: http://twitter.com/mixman
 | Github: http://github.com/mixman
 
 Objective
 =========
-Master Web Development on Client and Server -side.
+Master Web (+Mobile) Development on Client and Server -side, and as a side-effect, become a great programmer.
 
 Education
 =========
@@ -25,7 +25,7 @@ Skills
 Programming
 ^^^^^^^^^^^
 * Python in Web Development using Django (2008-)
-* PHP in Web Development using Agavi (2005-)
+* PHP in Web Development using Agavi/Symfony (2005-)
 * First HTML site written in 1996. Still online.
 
 Language
@@ -36,13 +36,16 @@ Experience
 ==========
 Career-related
 ^^^^^^^^^^^^^^
-* Muxlim, employee & shareholder (2006-)
-    * Chief Web Developer using Python, Django for building world's largest Muslim Lifestyle Network.
+* Muxlim, Employee & Shareholder (2006-)
+    * Chief Web Developer using Python, Django and Agile methods for building world's largest Muslim Lifestyle Network.
+        * Tags: SEO, Memcached, Redis, MySQL, Debian Linux, Amazon EC2 + S3, jQuery, Fabric, Hudson, Supervisor, Google App Engine, Nginx
+    * Certified Scrum Master (2008)
 
 * OiOi Interactive, Founder (2005-)
     * Oioi.fi: Creation of a social networking platform with features of popular services like Flickr, YouTube, del.icio.us, Blogger and Digg. (2006-2010)
     * Feedraider.com: Feed aggregator, reader, search (2007-)
-    * Heimoi.com: Hyperlocal communities (2010-)
+    * Heimoi.com: Hyperlocal communities using HTML5 techniques (2010-)
+    * Salama: Open-source PHP 5.3+ ORM (2010)
 
 * EVTEK (2004-2005)
     * Lead programming of NetPro project
