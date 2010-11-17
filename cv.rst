@@ -25,7 +25,7 @@ Skills
 Programming
 ^^^^^^^^^^^
 * Python in Web Development using Django (2008-)
-* PHP in Web Development using Agavi (2005-)
+* PHP in Web Development using Agavi/Symfony (2005-)
 * First HTML site written in 1996. Still online.
 
 Language
@@ -37,12 +37,15 @@ Experience
 Career-related
 ^^^^^^^^^^^^^^
 * Muxlim, employee & shareholder (2006-)
-    * Chief Web Developer using Python, Django for building world's largest Muslim Lifestyle Network.
+    * Chief Web Developer using Python, Django and Agile methods for building world's largest Muslim Lifestyle Network.
+    ** Tags: Memcached, Redis, MySQL, Debian Linux, Amazon EC2 + S3, jQuery, Fabric, Supervisor, Google App Engine
+    * Certified Scrum Master (2008)
 
 * OiOi Interactive, Founder (2005-)
     * Oioi.fi: Creation of a social networking platform with features of popular services like Flickr, YouTube, del.icio.us, Blogger and Digg. (2006-2010)
     * Feedraider.com: Feed aggregator, reader, search (2007-)
     * Heimoi.com: Hyperlocal communities (2010-)
+    * Salama: Open-source PHP 5.3+ ORM (2010)
 
 * EVTEK (2004-2005)
     * Lead programming of NetPro project
